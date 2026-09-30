@@ -25,5 +25,5 @@ A beginner-friendly guide to regular expressions, explained by walking through a
 ## Author
 
 **Archils Oburu**
-- GitHub: [@Archils](https://github.com/Archils)
+- GitHub: [@Archo2](https://github.com/Archo2)
 - Email: oburuarchils@gmail.com
